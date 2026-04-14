@@ -22,7 +22,7 @@ Insights
 - External economic factors influence sales performance
 
 Screenshots
-
+github.com/Vennelamusham/walmart-sales-dashboard/blob/main/screenshots
 
 Author
 Vennela Musham
